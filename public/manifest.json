@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "El Bochinche  ",
+  "name": "Bochiche",
   "icons": [
     {
       "src": "favicon.ico",
@@ -18,7 +18,9 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": ".",
+  "start_url": "/?pwa",
+  "id": "/?pwa",
+  "description": "Restaurante el bochiche las palmas de gran canarias ",
   "display": "standalone",
   "theme_color": "#000000",
   "background_color": "#ffffff"
